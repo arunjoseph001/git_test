@@ -1,2 +1,2 @@
-a new file created for git practise
+a new file created for git practice
 Hey there Odin!
